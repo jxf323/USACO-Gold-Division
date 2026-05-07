@@ -1,1 +1,1 @@
-# USACO-Gold-Division
+I first participated in the competition to advance from bronze level to silver level, and then participated in the competition to advance from silver level to gold level. In both competitions, I directly advanced with a full score of 1000 points.
